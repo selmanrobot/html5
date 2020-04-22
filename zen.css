@@ -1,0 +1,5 @@
+body>div:nth-child(even){background-color: red;}
+body>div:nth-child(odd){background-color: green;}
+body>div:nth-child(1){border-bottom:3px solid black;}
+body>div:nth-child(2){border:3px solid blue;}
+
