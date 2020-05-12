@@ -1,6 +1,6 @@
 Yeni bir projede kullanılan komutlar
 git init
-git remote add origin https://github.com/selmanburak/html5.git
+git remote add origin https://github.com/selmanrobot/html5.git
 
 
 Projede calistiktan sonra 
